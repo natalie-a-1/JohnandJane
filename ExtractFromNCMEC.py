@@ -21,6 +21,7 @@ class RetrieveData:
 
     print(data)
 
+# test
     # print(data)
 
     #each individual person is known as a screen and has a corresponding id#
