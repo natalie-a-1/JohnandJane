@@ -42,3 +42,4 @@ class RetrieveData:
     print("{} {}").format(response.status_code, response.reason)
 
 print('hello world')
+print('hi')
